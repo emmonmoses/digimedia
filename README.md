@@ -26,7 +26,7 @@ Javascript source files,
 Library and plugin files
  
 
-#Libraries & Plugins
+# Libraries & Plugins
 Bootstrap 5,
 Font Awesome,
 Google fonts
