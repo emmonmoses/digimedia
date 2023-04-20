@@ -1,6 +1,9 @@
 # DigiMedia WP-Theme
 A simple and clean wordpress theme I developed based on the DigiMedia HTML5 template from https://templatemo.com/
 
+# Website Url
+https://digimedia.dubaiwatches.io/
+
 # Key Features
 Bootstrap 5,
 HTML5 and CSS3,
