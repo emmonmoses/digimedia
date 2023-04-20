@@ -1,4 +1,4 @@
-# DigiMedia
+# DigiMedia WP-Theme
 A simple and clean wordpress theme I developed based on the DigiMedia HTML5 template from https://templatemo.com/
 
 # Key Features
