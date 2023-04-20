@@ -1,5 +1,5 @@
 # DigiMedia
-A simple and clean WordPress theme based on the DigiMedia HTML5 template:
+A simple and clean WordPress theme based on the DigiMedia HTML5 template courtesy of https://templatemo.com/
 
 # Key Features
 Bootstrap 5,
